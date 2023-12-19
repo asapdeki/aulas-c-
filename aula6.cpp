@@ -20,7 +20,7 @@ int main() {
 	res2 = n1 % n2;
 	
 	cout << "Divis: " << res1 << "\n\n";
-	cout << "Resto: " << res2 << "\n\n";
+	cout << "Resto: " << res2 << "\n\n";	
 	
 	return 0;	
 }
